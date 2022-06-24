@@ -1,4 +1,4 @@
-# docker-settings-for-widows10
+# Docker settings for Windows 10
 While running the Docker in Winodws 10
 Error:
 ```
